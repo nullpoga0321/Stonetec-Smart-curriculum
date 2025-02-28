@@ -80,13 +80,12 @@ HTML标签通常是成对出现的，开始标签和结束标签；
 
 CSS样式可以单独保存为外部文件，然后使用LINK元素将其链接进来
 
-```CSS
-body {
-    background-image:url('../img/bc.png')
-}
+# 3
 
+# 4 
 
+# 5
 
-```
+# 7
 
 
